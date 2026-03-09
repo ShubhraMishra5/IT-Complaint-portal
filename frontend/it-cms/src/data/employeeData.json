@@ -1,0 +1,45 @@
+{
+  "employees": [
+    {
+      "Employee ID": "EMP001",
+      "Name": "Alice Johnson",
+      "Email ID": "alicejohnson@comp.com",
+      "Department ID": "DPT101",
+      "Role": "Admin"
+    },
+    {
+      "Employee ID": "EMP002",
+      "Name": "Bob Smith",
+      "Email ID": "bobsmith@comp.com",
+      "Department ID": "DPT102",
+      "Role": "Employee"
+    },
+    {
+      "Employee ID": "EMP003",
+      "Name": "Clara Smith",
+      "Email ID": "clarasmith@comp.com",
+      "Department ID": "DPT103",
+      "Role": "Employee"
+    }
+  ],
+  "engineers": [
+    {
+      "Engineer ID": "ENG001",
+      "Name": "Ian Davis",
+      "Contact Details": "7876543212",
+      "Specialization": "Network & Server Maintenance"
+    },
+    {
+      "Engineer ID": "ENG002",
+      "Name": "Ravi Kumar",
+      "Contact Details": "7777777777",
+      "Specialization": "Security"
+    },
+    {
+      "Engineer ID": "ENG102",
+      "Name": "K. Harsha",
+      "Contact Details": "9999999999",
+      "Specialization": "Software"
+    }
+  ]
+}
